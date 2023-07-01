@@ -41,7 +41,7 @@
 - [Wildboost](https://github.com/dyanashek/Wildboost-app) - программа для автоматизации рекламных ставок на Wildberries. Работает с [серверной частью](https://github.com/dyanashek/Wildboost-api).
 - [Telegram бот](https://github.com/dyanashek/Arbitrage_bot) для поиска арбитражных связок.
 - [Whatsapp бот](https://github.com/dyanashek/Fuel-electric-stations) для поиска самых дешевых заправочных/электро станций в заданном радиусе. **[LIVE](https://wa.me/+393516886218)**
-- [Telegram бот](https://github.com/dyanashek/Thailand-exchange) для обмена валюты с навигационным меню, реферальной программой и отображением курсов online. **[LIVE](https://t.me/Change_money_bot)**
+- [Telegram бот](https://github.com/dyanashek/Thailand-exchange) для обмена валюты с навигационным меню, реферальной программой и отображением курсов online. **[LIVE](https://t.me/XChange_money_bot)**
 - [Telegram бот](https://github.com/dyanashek/Tinkoff-exchange-anomalies), отслеживающий аномальные объемы и изменения цены на бирже.
 - [Telegram бот](https://github.com/dyanashek/Binance_trailing-stop_bot), реализующий трейлинг-стоп в абсолютных значениях на криптобирже Binance.
 - [Telegram бот](https://github.com/dyanashek/China-travel), распределяющий клиентов между менеджерами и отслеживающий разделы навигационного меню, посещенные пользователем. **[LIVE](https://t.me/ChinaTrevel_bot)**

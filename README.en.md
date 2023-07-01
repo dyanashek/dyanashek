@@ -40,7 +40,7 @@ Hi there, I'm a beginner self-learned python developer. I am engaged in the deve
 - [Wildboost](https://github.com/dyanashek/Wildboost-app) - a program for automating advertising rates on Wildberries. Works with [backend](https://github.com/dyanashek/Wildboost-api).
 - [Telegram bot](https://github.com/dyanashek/Arbitrage_bot) to search for arbitration boundes.
 - [Whatsapp bot](https://github.com/dyanashek/Fuel-electric-stations) to find the cheapest gas/electric stations in a given radius. **[LIVE](https://wa.me/+393516886218)**
-- [Telegram bot](https://github.com/dyanashek/Thailand-exchange) for currency exchange with navigation menu, referral program and online currency rate display. **[LIVE](https://t.me/Change_money_bot)**
+- [Telegram bot](https://github.com/dyanashek/Thailand-exchange) for currency exchange with navigation menu, referral program and online currency rate display. **[LIVE](https://t.me/XChange_money_bot)**
 - [Telegram bot](https://github.com/dyanashek/Tinkoff-exchange-anomalies) that monitors abnormal volumes and price changes on the exchange.
 - [Telegram bot](https://github.com/dyanashek/Binance_trailing-stop_bot), which implements trailing stop in absolute values on the Binance crypto exchange.
 - [Telegram bot](https://github.com/dyanashek/China-travel), which distributes clients between managers and tracks sections of the navigation menu visited by the user. **[LIVE](https://t.me/ChinaTrevel_bot)**
