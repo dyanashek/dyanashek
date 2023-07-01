@@ -1,5 +1,6 @@
 
 ![MasterHead](static/banner.png)
+![](https://komarev.com/ghpvc/?username=dyanashek)
 ## Change language: [English](README.en.md)
 ***
 Привет, я начинающий python-разработчик. Занимаюсь разработкой чат-ботов, десктопных приложений, скриптов, API и продолжаю учиться новому!

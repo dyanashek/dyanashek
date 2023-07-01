@@ -1,4 +1,5 @@
 ![MasterHead](static/banner.png)
+![](https://komarev.com/ghpvc/?username=dyanashek)
 ## Изменить язык: [Русский](README.md)
 ***
 Hi there, I'm a beginner self-learned python developer. I am engaged in the development of chat bots, desktop applications, scripts, API and continue to learn new things!
