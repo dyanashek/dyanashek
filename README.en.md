@@ -39,12 +39,19 @@ Hi there, I'm a beginner self-learned python developer. I am engaged in the deve
 ## 🗂 My projects:
 - [Wildboost](https://github.com/dyanashek/Wildboost-app) - a program for automating advertising rates on Wildberries. Works with [backend](https://github.com/dyanashek/Wildboost-api).
 - [Telegram bot](https://github.com/dyanashek/Arbitrage_bot) to search for arbitration boundes.
+- [Telegram bot](https://github.com/dyanashek/WB-prices-parser) bot-parser of real WB ad auction rates. Implemented a subscription system with automatic renewal and a bonus system. **[LIVE](https://t.me/WildBoost_bot)**
+- [Telegram bot](https://github.com/dyanashek/Gpt-bot) bot-advisor trained on language model (GPT). **[LIVE](https://t.me/Inside_company_Bot)**
 - [Whatsapp bot](https://github.com/dyanashek/Fuel-electric-stations) to find the cheapest gas/electric stations in a given radius. **[LIVE](https://wa.me/+393516886218)**
 - [Telegram bot](https://github.com/dyanashek/Thailand-exchange) for currency exchange with navigation menu, referral program and online currency rate display. **[LIVE](https://t.me/XChange_money_bot)**
+- [Telegram bot](https://github.com/dyanashek/job-notifier) to subscribe to interesting vacancies. **[LIVE](https://t.me/nadomnik_subscription_bot)**
 - [Telegram bot](https://github.com/dyanashek/Tinkoff-exchange-anomalies) that monitors abnormal volumes and price changes on the exchange.
 - [Telegram bot](https://github.com/dyanashek/Binance_trailing-stop_bot), which implements trailing stop in absolute values on the Binance crypto exchange.
 - [Telegram bot](https://github.com/dyanashek/China-travel), which distributes clients between managers and tracks sections of the navigation menu visited by the user. **[LIVE](https://t.me/ChinaTrevel_bot)**
-- [Telegram shop](https://github.com/dyanashek/Telegram-shop-bot), updating catalog based on google tables, catalog with pictures. **[LIVE](https://t.me/Two2Lives_bot)**
+- [Telegram shop](https://github.com/dyanashek/Telegram-shop-bot) updates catalog based on google tables, catalog with pictures. **[LIVE](https://t.me/Two2Lives_bot)**
+- [Telegram bot](https://github.com/dyanashek/Web-app-bot) with connected web app and telegram payment. **[LIVE](https://t.me/Inside_StoreBot)**
+- [Telegram bot](https://github.com/dyanashek/Taro-bot) that collects requests for services. **[LIVE](https://t.me/yakovleva_anna_taro_bot)**
+- [Telegram bot](https://github.com/dyanashek/Outfit-shop) to receive orders and provide information about the company. **[LIVE](https://t.me/outfit_item_bot)**
+- [Telegram bot](https://github.com/dyanashek/Visa-consulting-bot) simple Q&A. **[LIVE](https://t.me/spain_pomogator_bot)**
 >Other projects can be found in the profile.
 ***
 ## 📝 Statistics:

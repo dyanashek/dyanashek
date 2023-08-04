@@ -40,12 +40,21 @@
 ## 🗂 Мои проекты:
 - [Wildboost](https://github.com/dyanashek/Wildboost-app) - программа для автоматизации рекламных ставок на Wildberries. Работает с [серверной частью](https://github.com/dyanashek/Wildboost-api).
 - [Telegram бот](https://github.com/dyanashek/Arbitrage_bot) для поиска арбитражных связок.
+- [Telegram бот](https://github.com/dyanashek/WB-prices-parser) бот-парсер реальных ставок рекламного аукциона WB. Реализована система подписки с автоматическим продлением и бонусная система. **[LIVE](https://t.me/WildBoost_bot)**
+- [Telegram бот](https://github.com/dyanashek/Gpt-bot) бот-консультант, обученный на базе языковой модели (GPT). **[LIVE](https://t.me/Inside_company_Bot)**
 - [Whatsapp бот](https://github.com/dyanashek/Fuel-electric-stations) для поиска самых дешевых заправочных/электро станций в заданном радиусе. **[LIVE](https://wa.me/+393516886218)**
 - [Telegram бот](https://github.com/dyanashek/Thailand-exchange) для обмена валюты с навигационным меню, реферальной программой и отображением курсов online. **[LIVE](https://t.me/XChange_money_bot)**
+- [Telegram бот](https://github.com/dyanashek/job-notifier) для подписки на интересующие вакансии. **[LIVE](https://t.me/nadomnik_subscription_bot)**
 - [Telegram бот](https://github.com/dyanashek/Tinkoff-exchange-anomalies), отслеживающий аномальные объемы и изменения цены на бирже.
 - [Telegram бот](https://github.com/dyanashek/Binance_trailing-stop_bot), реализующий трейлинг-стоп в абсолютных значениях на криптобирже Binance.
+- [Telegram бот](https://github.com/dyanashek/Logistic-bot), упрощающий процесс взаимодействия логиста с водителями.
 - [Telegram бот](https://github.com/dyanashek/China-travel), распределяющий клиентов между менеджерами и отслеживающий разделы навигационного меню, посещенные пользователем. **[LIVE](https://t.me/ChinaTrevel_bot)**
 - [Telegram магазин](https://github.com/dyanashek/Telegram-shop-bot), обновляющий каталог на основании google таблиц, каталог с картинками. **[LIVE](https://t.me/Two2Lives_bot)**
+- [Telegram бот](https://github.com/dyanashek/Web-app-bot) с подключенным веб-приложением и telegram оплатой. **[LIVE](https://t.me/Inside_StoreBot)**
+- [Telegram бот](https://github.com/dyanashek/Taro-bot), собирающий заявки на услуги. **[LIVE](https://t.me/yakovleva_anna_taro_bot)**
+- [Telegram бот](https://github.com/dyanashek/Outfit-shop) для приема заказов и предоставления информации о компании. **[LIVE](https://t.me/outfit_item_bot)**
+- [Telegram бот](https://github.com/dyanashek/Visa-consulting-bot) простой вопрос-ответ. **[LIVE](https://t.me/spain_pomogator_bot)**
+
 >Другие проекты можно найти в профиле.
 ***
 ## 📝 Статистика:
