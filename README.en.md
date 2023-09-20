@@ -52,6 +52,12 @@ Hi there, I'm a beginner self-learned python developer. I am engaged in the deve
 - [Telegram bot](https://github.com/dyanashek/Taro-bot) that collects requests for services. **[LIVE](https://t.me/yakovleva_anna_taro_bot)**
 - [Telegram bot](https://github.com/dyanashek/Outfit-shop) to receive orders and provide information about the company. **[LIVE](https://t.me/outfit_item_bot)**
 - [Telegram bot](https://github.com/dyanashek/Visa-consulting-bot) simple Q&A. **[LIVE](https://t.me/spain_pomogator_bot)**
+- [Telegram bot](https://github.com/dyanashek/Seller2Buyer) to search for buyers for products of interest. **[LIVE](https://t.me/seller2buyer_bot)**
+- [Telegram bot](https://github.com/dyanashek/Border-run) for booking a border-run with connected AI. **[LIVE](https://t.me/XChange_border_bot)**
+- [Telegram bot](https://github.com/dyanashek/Marketplace-reviews) to encourage users to write reviews on marketplaces. **[LIVE](https://t.me/Mobile_Beauty_Bot)**
+- [Telegram bot](https://github.com/dyanashek/Sport_parser) notifying about certain events in sports matches.
+- [Telegram bot](https://github.com/dyanashek/Answer-wb-reviews) to automate responses to reviews on marketplaces with a daily report.
+
 >Other projects can be found in the profile.
 ***
 ## 📝 Statistics:

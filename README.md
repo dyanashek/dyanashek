@@ -54,6 +54,11 @@
 - [Telegram бот](https://github.com/dyanashek/Taro-bot), собирающий заявки на услуги. **[LIVE](https://t.me/yakovleva_anna_taro_bot)**
 - [Telegram бот](https://github.com/dyanashek/Outfit-shop) для приема заказов и предоставления информации о компании. **[LIVE](https://t.me/outfit_item_bot)**
 - [Telegram бот](https://github.com/dyanashek/Visa-consulting-bot) простой вопрос-ответ. **[LIVE](https://t.me/spain_pomogator_bot)**
+- [Telegram бот](https://github.com/dyanashek/Seller2Buyer) для поиска байеров на интересующие товары. **[LIVE](https://t.me/seller2buyer_bot)**
+- [Telegram бот](https://github.com/dyanashek/Border-run) для бронирования бордер-рана с подключенным AI. **[LIVE](https://t.me/XChange_border_bot)**
+- [Telegram бот](https://github.com/dyanashek/Marketplace-reviews) для стимулирования пользователей на написание отзывов на маркетплейсах. **[LIVE](https://t.me/Mobile_Beauty_Bot)**
+- [Telegram бот](https://github.com/dyanashek/Sport_parser) уведомляющий об определенных событиях в спортивных матчах.
+- [Telegram бот](https://github.com/dyanashek/Answer-wb-reviews) для автоматизации ответов на отзывы на маркетплейсах с предоставлением ежедневного отчета.
 
 >Другие проекты можно найти в профиле.
 ***
