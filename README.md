@@ -34,6 +34,9 @@
   <a target="_blank" rel="noreferrer"> 
     <img src="static/vscode.png" alt="vscode" width="30" height="30"/> 
   </a>  
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="selenium" width="30" height="30"/> 
+  </a>&nbsp; 
 </p>
 
 ***
